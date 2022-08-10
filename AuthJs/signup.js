@@ -100,7 +100,7 @@ function apply(a){
     window.alert("Please Login To Continue");
     // window.alert("Welcome "+ auth.user.Name);
     sessionStorage.setItem('Name',a);
-    window.location = "index_login.html"
+    window.location = "index.html"
 }
 
 // $(document).ready(()=>{
